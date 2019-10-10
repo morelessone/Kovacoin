@@ -1,0 +1,6 @@
+echo "# Kovacoin" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote добавить источник https://github.com/morelessone/Kovacoin.git
+ git push -u мастер источника
